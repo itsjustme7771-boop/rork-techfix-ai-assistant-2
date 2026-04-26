@@ -1,0 +1,20 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "FixIQ",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "FixIQ",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "FixIQ",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
